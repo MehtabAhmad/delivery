@@ -1,25 +1,39 @@
 {
 	"deliveries": [{
 			"id": 1234,
-			"address": "Some address",
+			"address": "Cercas Bajas 86 Matadepera Barcelona",
 			"latitude": 2.334455,
 			"longitude": 4.323423,
 			"customerName": "Juan Perez"
 		},
 		{
 			"id": 4567,
-			"address": "Some other address",
+			"address": "Ctra. de Fuentenueva 16 Villanueva del Pardillo Madrid",
 			"latitude": 2.3432167,
 			"longitude": 4.676453,
-			"customerName": "María Castro "
+			"customerName": "María Castro"
+		},
+		{
+			"id": 6567,
+			"address": "C/ Benito Guinea 21 Canet de Mar Barcelona",
+			"latitude": 2.3432456,
+			"longitude": 4.6764234,
+			"customerName": "Brunella M Vallejo"
+		},
+		{
+			"id": 9877,
+			"address": "Pl. Virgen Blanca 10 Gironella Barcelona",
+			"latitude": 2.3432567,
+			"longitude": 4.676876,
+			"customerName": "Giuliana J Sandoval"
 		}
 	],
-	"delivery": {
-		"id": 1234,
-		"address": "Some address",
-		"latitude": 2.334455,
-		"longitude": 4.323423,
-		"customerName": "Juan Pérez ",
+	"deliveryDetail": {
+		"id": 4567,
+		"address": "Ctra. de Fuentenueva 16 Villanueva del Pardillo Madrid",
+		"latitude": 2.3432167,
+		"longitude": 4.676453,
+		"customerName": "María Castro",
 		"requiresSignature": false,
 		"specialInstructions": "blue door, besides the car shop.Deliver to the car shop if necessary "
 	}
