@@ -4,14 +4,14 @@
 			"address": "Some address",
 			"latitude": 2.334455,
 			"longitude": 4.323423,
-			"customer_name": "Juan Perez"
+			"customerName": "Juan Perez"
 		},
 		{
 			"id": 4567,
 			"address": "Some other address",
 			"latitude": 2.3432167,
 			"longitude": 4.676453,
-			"customer_name": "María Castro "
+			"customerName": "María Castro "
 		}
 	],
 	"delivery": {
@@ -19,8 +19,8 @@
 		"address": "Some address",
 		"latitude": 2.334455,
 		"longitude": 4.323423,
-		"customer_name": "Juan Pérez ",
-		"requires_signature": false,
-		"special_instructions": "blue door, besides the car shop.Deliver to the car shop if necessary "
+		"customerName": "Juan Pérez ",
+		"requiresSignature": false,
+		"specialInstructions": "blue door, besides the car shop.Deliver to the car shop if necessary "
 	}
 }
