@@ -37,7 +37,7 @@
 		"requiresSignature": false,
 		"specialInstructions": "blue door, besides the car shop.Deliver to the car shop if necessary"
 	},
-	"sendTrackingInfo": {
+	"sendTrackingInfo":{
 		"status": "ok"
 	}
 	
