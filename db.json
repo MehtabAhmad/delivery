@@ -36,5 +36,9 @@
 		"customerName": "María Castro",
 		"requiresSignature": false,
 		"specialInstructions": "blue door, besides the car shop.Deliver to the car shop if necessary"
+	},
+	"sendTrackingInfo": {
+		"status": "ok"
 	}
+	
 }
